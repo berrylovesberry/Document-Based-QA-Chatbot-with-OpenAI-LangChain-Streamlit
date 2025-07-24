@@ -1,4 +1,4 @@
-# 📄 PDF Q\&A Chatbot with OpenAI, LangChain & Streamlit
+# 📄 Document-Based-QA-Chatbot-with-OpenAI-LangChain-Streamlit
 
 This project is an interactive chatbot that allows users to upload PDF documents and ask context-specific questions. Built with **Streamlit**, **LangChain**, and **OpenAI GPT-3.5**, the app performs document parsing, semantic search, and generates intelligent responses using **retrieval-augmented generation (RAG)**.
 
